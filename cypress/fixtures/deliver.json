@@ -30,5 +30,21 @@
         },
         "delivery_method": "Moto",
         "cnh": "cnh-digital.jpg"
-    } 
+    },
+    "email_inv": {
+        "name": "Suyanne França",
+        "cpf": "04723352391",
+        "email": "suy.com.br",
+        "whatsapp": "85981812020",
+        "address": {
+            "postalcode": "60841480",
+            "street": "Rua 3",
+            "number": "131",
+            "details": "Apt 601",
+            "district": "Messejana",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
 }
